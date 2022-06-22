@@ -4,3 +4,7 @@ Alface
 Tomate
 Cebola
 Requeijao
+Ovos
+Farinha
+Oleo
+Vinagre
